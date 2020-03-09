@@ -1,0 +1,65 @@
+
+<html>
+	<head>
+		<style type="text/css">
+			body { 
+				background-image: url('Minimalist-Crumpled-Paper-Simple-Background-Image.jpg');
+				background-repeat: no-repeat;
+				background-size: cover;
+				
+			}
+			p {
+				font-family: Comic Sans MS;
+				color: deeppink;
+			}
+			h2 {
+				color: #4CAF50;
+			}
+			
+			.red-paragraph {
+				color: red;
+			}
+			
+			img {
+				width: 860px;
+			}
+		</style>
+		<script>
+		
+		function turnToRed() {
+		document.getElementById("turnRed").color = "red"
+		}
+		</script>
+		<TITLE> My first Page      </TITLE>
+	</head>
+
+	<body>
+
+
+
+		<p title="Important section"> Attributes of an html element </p>
+		
+		<h3 style="color:blue"><i> This is a basic HTML element</i> </h3>
+		<p class="red-paragraph">  This is my first paragraph </p>
+		<a href="https://www.sheridancollege.ca/"> Sheridan College Official website </a>
+			<h1>How is the background image?</h1>
+		<p>
+		Programming and software development  
+
+		<p>A Web developer<br> 
+		   </p>
+		<IMG SRC="what-is-a-web-developer.jpg" width="300"height="auto" alt=" ">
+			
+
+
+		<p> Dhruv  </p>
+
+
+		<p> Sheridan College &copy; </P>
+		<p> Sheridan College &reg; <p>
+
+	</body> 
+
+
+
+</html>
